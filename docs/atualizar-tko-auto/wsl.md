@@ -36,7 +36,7 @@ sudo nano ~/.bashrc
 ```
 Aperte as teclas
 ```
-Ctrl + W # Abri o menu de pesquisa
+Ctrl + W # Abre o menu de pesquisa
 Ctrl + V # Desce para a última linha
 ```
 
