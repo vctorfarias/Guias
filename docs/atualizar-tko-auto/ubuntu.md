@@ -1,4 +1,4 @@
-## Ubuntu
+# Ubuntu
 
 Você pode criar um `alias`, que é uma maneira de criar atalhos personalizados para comandos no terminal. Isso permite substituir o comandos como `pipx upgrade tko && tko play poo` por nomes mais simples. Nesse caso vou usar o `play` mas você pode escolher qualquer outro.
 
@@ -7,15 +7,15 @@ echo "alias play='pipx upgrade tko && tko play poo'" >> ~/.bashrc
 ```
 *obs.: a execução não vai retornar nenhum aviso de sucesso, mas tá tudo bem 👍*
 
-Agora, sempre que você digitar `play` no terminal, ele executará o comando para atualizar o `tko` e iniciá-lo. Caso precise realizar alguma mudança. Leia a **Opção 2** e edite o `~/.bashrc`, pois o `alias` que você criou fica salvo nele.
+Agora, sempre que você digitar `play` no terminal, ele executará o comando para atualizar o `tko` e iniciá-lo. Caso precise realizar alguma mudança. Leia a próxima parte.
 
-#### Sobre o Nano e o `.bashrc`
+## Sobre o Nano e o `.bashrc`
 
 O Nano é um editor de texto, que roda no terminal. Ele é ideal para editar arquivos de configuração, como o `.bashrc`. 
 
 O `.bashrc` é um arquivo de configuração do Bash (o terminal padrão na maioria das distribuições Linux). Ele é executado sempre que você abre um novo terminal interativo e serve para personalizar o ambiente de trabalho, como adicionar aliases, variáveis de ambiente e customizações.
 
-#### Siga o passo a passo
+## Siga o passo a passo
 
 - Abrindo o Nano e Editando o `.bashrc`
 ```sh
