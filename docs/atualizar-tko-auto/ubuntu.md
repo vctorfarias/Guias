@@ -6,4 +6,4 @@ echo "alias play='pipx upgrade tko && tko play poo'" >> ~/.bashrc
 ```
 *obs.: a execução não vai retornar nenhum aviso de sucesso.*
 
-Agora, sempre que você digitar `play` no terminal, ele executará o comando para atualizar o `tko` e iniciá-lo.
+Agora, sempre que digitar `play` no terminal, ele executará o comando para atualizar o `tko` e iniciá-lo.

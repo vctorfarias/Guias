@@ -2,6 +2,8 @@
 
 Aqui, as coisas são mais difíceis de entender, mas vou tentar resumir de forma objetiva. Caso queira entender todos os detalhes, basta acessar [aqui](https://github.com/vistomia/testando-update) para entender o que cada linha faz.
 
+Entre no codespace do repositório.
+
 Abra o arquivo `devcontainer.json` da pasta `.devcontainer`.
 Adicione isso ao objeto
 
