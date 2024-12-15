@@ -2,7 +2,7 @@
 
 Aqui, as coisas são mais difíceis de entender, mas vou tentar resumir de forma objetiva. Caso queira entender todos os detalhes, basta acessar [aqui](https://github.com/vistomia/testando-update) para entender o que cada linha faz.
 
-Abra o arquivo da pasta `.devcontainer/devcontainer.json`
+Abra o arquivo `devcontainer.json` da pasta `.devcontainer`.
 Adicione isso ao objeto
 
 ```json
@@ -12,7 +12,7 @@ Adicione isso ao objeto
   }
 ```
 
-Crie o arquivo `attach.sh` na pasta `.devcontainer`. E coloque esse script dentro dele.
+Crie o arquivo `attach.sh` na pasta `.devcontainer` depois coloque esse script dentro dele.
 
 ```sh
 set +x 
