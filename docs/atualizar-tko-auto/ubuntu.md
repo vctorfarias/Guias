@@ -7,7 +7,7 @@ echo "alias play='pipx upgrade tko && tko play poo'" >> ~/.bashrc
 ```
 *obs.: a execução não vai retornar nenhum aviso de sucesso, mas tá tudo bem 👍*
 
-Agora, sempre que você digitar `play` no terminal, ele executará o comando para atualizar o `tko` e iniciá-lo. Caso precise realizar alguma mudança, leia a próxima parte e edite o `~/.bashrc`, pois o alias que você criou fica salvo nele.
+Agora, sempre que você digitar `play` no terminal, ele executará o comando para atualizar o `tko` e iniciá-lo. Caso precise realizar alguma mudança, leia a próxima parte e edite o `~/.bashrc`, pois o `alias` que você criou fica salvo nele.
 
 ## Sobre o Nano e o `.bashrc`
 
