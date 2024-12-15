@@ -14,6 +14,8 @@ Adicione isso ao objeto
   }
 ```
 
+![Image Gif](../../assets/codespace-add-object.gif)
+
 Crie o arquivo `attach.sh` na pasta `.devcontainer` depois coloque esse script dentro dele.
 
 ```sh
