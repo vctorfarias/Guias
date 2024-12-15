@@ -1,6 +1,6 @@
 # Codespace
 
-Aqui, as coisas podem são mais difíceis de entender, mas vou tentar resumir de forma objetiva. Caso queira entender todos os detalhes, basta acessar [aqui](https://github.com/vistomia/testando-update) para entender o que cada linha faz.
+Aqui, as coisas são mais difíceis de entender, mas vou tentar resumir de forma objetiva. Caso queira entender todos os detalhes, basta acessar [aqui](https://github.com/vistomia/testando-update) para entender o que cada linha faz.
 
 Abra o arquivo da pasta `.devcontainer/devcontainer.json`
 Adicione isso ao objeto
