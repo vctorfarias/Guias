@@ -29,7 +29,7 @@ if [ -d poo ]; then
     tko play poo
 else
     echo s | tko init --remote poo # confirma a instalação do diretorio ./poo
-    tko play poo         # configura a versão para ts e abre
+    tko play poo                   # configura a versão para ts e abre
 fi
 ```
 
