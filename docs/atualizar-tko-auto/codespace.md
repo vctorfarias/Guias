@@ -44,4 +44,4 @@ git push
 
 E reconstrua o container do Codespace.
 
-![Image Gif](codespace-rebuild-container.gif)
+![Image Gif](../../assets/codespace-rebuild-container.gif)
